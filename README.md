@@ -5,6 +5,7 @@ I am a motivated and experienced Full Stack .NET developer with 2 years of hands
 - 🌱 I’m currently learning Clean Architecture with .NET, CQRS, and DDD.
 - 💬 Ask me about Cloud native applications written with .NET 
 - 📫 How to reach me: cansozbirdev@gmail.com
+- ⚡ Fun fact: I love 📚, ♟, 🚴🏻, 🎹 and lots of ☕
 
 ### Contact Me 📫
 

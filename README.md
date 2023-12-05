@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a motivated and experienced Full Stack .NET developer with 2 years of hands-on expertise. I have professional experience in .NET Core, Azure, and Angular, making me adept at building robust and scalable applications. Currently, I am developing serverless cloud-native applications running on Azure as part of an English-speaking team at a Dutch company.
+I am a motivated and experienced Full Stack .NET developer with 2 years of hands-on expertise. I have professional experience in .NET Core, Azure, and Angular, making me adept at building robust and scalable applications. 
 
 - 🌱 I’m currently learning Clean Architecture with .NET, CQRS, and DDD.
 - 💬 Ask me about Cloud native applications written with .NET 
